@@ -1,0 +1,10 @@
+.venv/
+.cache/
+.mplconfig/
+__pycache__/
+*.py[cod]
+.DS_Store
+data/*
+!data/processed/
+data/processed/*
+!data/processed/.gitkeep
